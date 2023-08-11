@@ -8,16 +8,13 @@
  - ✉️ My email : hilerna@proton.me
  - 🖥️ And my discord : [Hilerna](https://discord.com/users/1084527992967016608)
 
-### - 🌍 Languages :
+### - ⚙️ Languages and Systems :
 
 - I'am currently mastering
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python]()
 
-
-### - ⚙️ System :
- 
 - My different operating systems
  
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
