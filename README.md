@@ -1,4 +1,4 @@
-![image](https://github.com/Hilerna/Hilerna/assets/140548526/f776a0b1-4c46-42e0-a249-eb91b23fbc4d)<h1> Hi 👋, I'm Hilerna !</h1>
+<h1> Hi 👋, I'm Hilerna !</h1>
  
  ### - ❤️ About me :
 
