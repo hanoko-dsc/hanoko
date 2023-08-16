@@ -1,12 +1,12 @@
-<h1> Hi 👋, I'm Hilerna !</h1>
+<h1> Hi 👋, I'm Hanoko !</h1>
  
  ### - ❤️ About me :
 
 - I'm Stacy known as Hilerna i'am currently 17 years old, I really like computer science and web development !
 - Founder of Thief Strange, XSpoofer and Novaline Cheat.
 ### - 📩 Contact :
- - ✉️ My email : hilerna@proton.me
- - 🖥️ And my discord : [Hilerna](https://discord.com/users/1084527992967016608)
+ - ✉️ My email : ...
+ - 🖥️ And my discord : [Hanoko](https://discord.com/users/1084527992967016608)
 
 ### - ⚙️ Languages and Systems :
 
