@@ -2,7 +2,7 @@
  
  ### - ❤️ About me :
 
-- I'm Stacy known as Hilerna i'am currently 17 years old, I really like computer science and web development !
+- I'm Hanoko i'am currently 17 years old.
 - Founder of Thief Strange, XSpoofer and Novaline Cheat.
 ### - 📩 Contact :
  - ✉️ My email : ...
